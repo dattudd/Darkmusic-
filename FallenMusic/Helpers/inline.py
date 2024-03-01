@@ -72,7 +72,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
-        InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙" , url="https://t.me/Jumikxmusic_bot"
+        
     ],
     [
         InlineKeyboardButton(
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙", url="https://t.me/Jumikxmusic_bot"
+    [InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙", url=config.SUPPORT_CHAT),
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
