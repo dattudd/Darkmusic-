@@ -52,7 +52,7 @@ pm_buttons = [
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
-        InlineKeyboardButton(text="Titan network",url="https://t.me/TitanXSupport"
+        InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙" ,url="https://t.me/Jumikxmusic_bot"
     ],
     [
         InlineKeyboardButton(
@@ -72,7 +72,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
-        InlineKeyboardButton(text="⊙ тιтαη ηєтωσяк ⊙", url="https://t.me/TitanXSupport"
+        InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙" , url="https://t.me/Jumikxmusic_bot"
     ],
     [
         InlineKeyboardButton(
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="⊙ тιтαη ηєтωσяк ⊙", url="https://t.me/TitanXSupport"],
+    [InlineKeyboardButton(text="⊙ sᴜᴘᴘᴏʀᴛ ⊙", url="https://t.me/Jumikxmusic_bot"
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
