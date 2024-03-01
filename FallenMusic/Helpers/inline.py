@@ -45,20 +45,20 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="⊕ 𝖠𝖽𝖽 𝖬𝖾 𝖦&𝖢 ⊕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
+        InlineKeyboardButton(text="⊙ тιтαη ηєтωσяк ⊙", url="https://t.me/TitanXSupport"
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/AnonymousX1025/FallenMusic"
+            text="⊙ σρ ηєтωσяк ⊙", url="https://t.me/OVER_POWERED"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="≮ 𝖣𝖾𝗏 ≯", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -71,14 +71,14 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
+        InlineKeyboardButton(text="⊙ тιтαη ηєтωσяк ⊙", url="https://t.me/TitanXSupport"
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/TheAnonymous2005/FallenMusic"
+            text="⊙ σρ ηєтωσяк ⊙", url="https://t.me/OVER_POWERED"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="≮ 𝖣𝖾𝗏 ≯", user_id=config.OWNER_ID),
     ],
 ]
 
