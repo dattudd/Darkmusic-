@@ -52,7 +52,7 @@ pm_buttons = [
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="⊙ нєяσкυ ¢¢ ⊙", url="https://t.me/new_heroku_cc"
-        InlineKeyboardButton(text="⊙ тιтαη ηєтωσяк ⊙",url="https://t.me/TitanXSupport"
+        InlineKeyboardButton(text="⊙тιтαη ηєтωσяк⊙",url="https://t.me/TitanXSupport"
     ],
     [
         InlineKeyboardButton(
