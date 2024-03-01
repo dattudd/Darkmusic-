@@ -29,7 +29,7 @@ from pyrogram import idle
 from FallenMusic import (
     ASS_ID,
     ASS_NAME,
-    ASS_USERNAME,
+    FallenMusic.Helpers.thumbnails,
     BOT_ID,
     BOT_NAME,
     BOT_USERNAME,
