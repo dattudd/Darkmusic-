@@ -52,7 +52,7 @@ pm_buttons = [
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="⊙ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ⊙", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="⊙ Op Network ⊙", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
@@ -72,7 +72,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="⊙ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ⊙", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="⊙ Op Network ⊙", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="⊙ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ⊙", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="⊙ Op Network ⊙", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
